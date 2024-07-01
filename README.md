@@ -6,7 +6,7 @@ Computer Organization - Spring 2024
 
 - Name:amirhossein poormirza
 - Team Members:mohammadrezamiandehi-parsazabihirad
-- Student ID: 99400091
+- Student ID: 99400060
 - Date:1403/4/10
 
 ## Report
